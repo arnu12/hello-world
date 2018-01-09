@@ -1,2 +1,4 @@
 # hello-world
-hello world example
+
+
+Hi there i am have just graduated and looking to make a difference in the software world!
